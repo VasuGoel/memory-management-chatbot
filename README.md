@@ -3,6 +3,10 @@ Interactive ChatBot build using wxWidgets cross-platform GUI library and optimiz
 
 Modern memory management techniques used are Dynamic Memory Allocation (The Heap), Resource Copying Policies with Copy and Move semantics using Lvalues and Rvalues for implementing the Rule of Five, Resource Acquisition Is Initialization (RAII), Smart Pointers and Transfering ownerships.
 
+<p align="center">
+    <img src="images/membot.png" width="800" height="540" /> 
+</p>
+
 ## Cloning
 You can clone the repository with HTTPS:
 ```
